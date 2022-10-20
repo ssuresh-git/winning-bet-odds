@@ -6,4 +6,8 @@ It’s obvious, you can not go lower than step number 0. And also, you are a bit
 
 You bet your friend that you’ll reach at least 60 steps up after 100 dice rolls. What is the percentage chance that you will win the bet?
 
+# Tools used
 This project utilizes Python packages Numpy and Matplotlib. It utilizes random simulations to calculate the percentage odds of reaching a specified end point given the specifications in the project brief.
+
+# Link to project
+[Calculate Odds of Winning a Bet Using Python Random Number Generation Simulation](https://www.analyticdojo.com/random-number-generation-to-calculate-odds-of-winning-a-bet/)
